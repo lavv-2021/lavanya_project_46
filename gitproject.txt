@@ -1,0 +1,9 @@
+Symptoms: Issue with VDI.
+Diagnosis Steps: Checked the found that VDI is not working  
+Cause: Connectivity issue
+Resolution Steps: enabled the project VLAN and it is working fine 
+Number of Users Impacted: 1  
+User Confirmation: Resolving the incident as per Employee confirmation.
+KBASE: updated
+Compliance Check Status: Compliant
+Internet Connection Type: Jio 
